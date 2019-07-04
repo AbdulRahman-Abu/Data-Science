@@ -1,0 +1,13 @@
+LEARNING R
+
+Data types:
+To check for data type of a variable, do below
+class(type in the name of the variable) e.g
+class(my_numeric)
+
+TO ASSIGN VARIABLES R
+var my_var <- "text"
+
+R is case sensitive and there is no closing hypen
+
+2) VECTORS
